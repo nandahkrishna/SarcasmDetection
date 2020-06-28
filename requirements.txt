@@ -1,0 +1,9 @@
+eli5
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+sentence_transformers
+tensorflow
+wordcloud
